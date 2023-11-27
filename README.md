@@ -41,13 +41,13 @@ Home page looks like this:
 
 It contains few options<br>On the left you can see openable menu that contains (from top to bottom):
 1. Home page
-2. Single value[^single]
-3. Range of values[^range]
+2. Single value
+3. Range of values
 4. Help (not implemented yet)
 
 In the right upper corner there are also some default control buttons
 
-[^single]: ## Single value page
+## Single value page
 This page looks like so:
 
 <img src="img\single.png">
@@ -59,7 +59,7 @@ In the top section we define our selected starting value, and if we want to we c
 After calculation is done in the bottom section we have our plot that is interactive, and on the right side we have some statistics like max value reached, amount of steps and time it took to calculate
 
 
-[^range]: ## Range of numbers page
+## Range of numbers page
 This page looks like so:
 
 <img src="img\range.png">
