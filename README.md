@@ -23,7 +23,7 @@ In summary the $3x+1$ conjecture works as follows:
 So for example 9
 
 The steps will be:
-9 --x3+1--> 28 --/2--> 14 --/2--> 7 --x3+1--> 22 --/2--> 11 --> 34 --> 17 --> 52 --> 26 --> 13 --> 40 --> 20 --> 10 --> 5 --> 16 --> 8 --> 4 --> 2 --> 1 --> 4 🔁
+`9` --x3+1--> `28` --/2--> `14` --/2--> `7` --x3+1--> `22` --/2--> `11` --> `34` --> `17` --> `52` --> `26` --> `13` --> `40` --> `20` --> `10` --> `5` --> `16` --> `8` --> `4` --> `2` --> `1` --> `4` 🔁
 
 Eventually we always end up with 4->2->1 loop. Mathematicians are searching for number that will not fall into that loop
 
@@ -47,8 +47,7 @@ It contains few options<br>On the left you can see openable menu that contains (
 
 In the right upper corner there are also some default control buttons
 
-[^single]:
-## Single value page
+[^single]: ## Single value page
 This page looks like so:
 
 <img src="img\single.png">
@@ -60,8 +59,7 @@ In the top section we define our selected starting value, and if we want to we c
 After calculation is done in the bottom section we have our plot that is interactive, and on the right side we have some statistics like max value reached, amount of steps and time it took to calculate
 
 
-[^range]:
-## Range of numbers page
+[^range]: ## Range of numbers page
 This page looks like so:
 
 <img src="img\range.png">
