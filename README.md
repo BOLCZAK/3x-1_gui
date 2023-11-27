@@ -12,6 +12,8 @@ Inspierd by video on youtube channel Veritasium:
 
 I decided to write simple GUI program just for fun tackling the conjecture defined above.
 
+## Explanation
+
 In summary the $3x+1$ conjecture works as follows:
 1. Pick any positive integer ($\mathbb{Z}$) number
 2. If the number is odd multiply it by 3 and add 1
@@ -25,6 +27,6 @@ The steps will be:
 
 Eventually we always end up with 4->2->1 loop. Mathematicians are searching for number that will not fall into that loop
 
-As for now on the bruteforced $2^68$ numbers (that's a lot)
+As for now on the bruteforced $2^{68}$ numbers (that's a lot)
 
 [^wiki]: See on Wiki: https://en.wikipedia.org/wiki/Collatz_conjecture | Zobacz na Wikipedii https://pl.wikipedia.org/wiki/Problem_Collatza
